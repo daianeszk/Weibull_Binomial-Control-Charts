@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18571398.svg)](https://doi.org/10.5281/zenodo.18571398)
+
+
 # Weibull Binomial Control Charts: Versões unilateral e bilateral
 
 Este repositório disponibiliza os scripts em **R** utilizados em minha pesquisa do mestrado em Engenharia de Produção para desenhar limites de um **np-chart** (contagem por atributos) a partir de um alvo de falso alarme (ARL0) e mapear limites para **pontos de alerta em tempo delineados por Weibull**.  
